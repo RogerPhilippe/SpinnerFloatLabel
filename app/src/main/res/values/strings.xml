@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SpinnerFloatLabel</string>
+    <string name="floating_label_spinner">Item</string>
+    <string name="hint_spinner">Selecione um item</string>
+</resources>
